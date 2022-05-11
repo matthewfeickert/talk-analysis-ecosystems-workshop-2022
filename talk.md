@@ -16,6 +16,16 @@ count: false
 May 23rd, 2022
 
 ---
+# Info slide (remove before talk)
+
+* Time: .bold[15 minutes] talk + 5 minutes questions
+* Concept notes from Alex:
+   - Really what it is about is talking about analyzer user experience
+   - Briefly talk more generally about the ecosystem
+      - not everyone will be very familiar, though participants will get pre-workshop material
+   - Future-facing thoughts about ecosystem would also fit well (white paper recommendations)
+
+---
 # Ecosystems
 
 .center[
