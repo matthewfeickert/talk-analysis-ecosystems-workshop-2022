@@ -84,6 +84,7 @@ Their growth is tightly coupled to the interoperable design [[image](https://ind
 
 .kol-1-2.code-tiny[
 ```python
+# one bin example from pyhf v0.6.3 docs
 import pyhf
 import numpy as np
 import matplotlib.pyplot as plt
@@ -108,7 +109,7 @@ fig.set_size_inches(7, 5)
 brazil.plot_results(poi_vals, results, ax=ax);
 ```
 <!--  -->
-.center.width-60[[![pyhf-brazil-band](figures/pyhf-brazil-band.svg)](https://pyhf.readthedocs.io/)]
+.center.width-60[[![pyhf-brazil-band](figures/pyhf-brazil-band.svg)](https://pyhf.readthedocs.io/en/v0.6.3/)]
 ]
 .kol-1-2[
 <iframe
