@@ -5,7 +5,8 @@ count: false
 
 <br>
 
-.huge.blue[Matthew Feickert]<br>
+.huge.blue[Matthew Feickert]&emsp;.huge[Jim Pivarski]
+<br>
 .huge[(University of Illinois at Urbana-Champaign)]
 <br><br>
 [matthew.feickert@cern.ch](mailto:matthew.feickert@cern.ch)
