@@ -24,6 +24,14 @@ May 23rd, 2022
 In his [PyCon 2017 keynote](https://youtu.be/ZyjCqQEUa8o), Jake VanderPlas gave us the iconic "PyData ecosystem" image
 ]
 
+---
+# PyHEP ecosystem
+
+.center[
+.width-60[[![pyhep-ecosystem](figures/pyhep-ecosystem.svg)](https://indico.cern.ch/event/1140031/)]
+
+In his [2022 PyHEP topical meeting update](https://indico.cern.ch/event/1140031/), Jim Pivarski gave us a view for the Scikit-HEP ecosystem
+]
 
 ---
 # Summary
