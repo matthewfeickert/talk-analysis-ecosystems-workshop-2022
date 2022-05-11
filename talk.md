@@ -69,6 +69,15 @@ Their growth is tightly coupled to the interoperable design [[image](https://ind
 ]
 
 ---
+# Interoperability allows for analysis pipelines
+
+.center[
+.width-90[[![as-ecosystem](figures/as-ecosystem.png)](https://iris-hep.org/as.html)]
+
+See end-to-end analysis demo by Alex Held at [Analysis Grand Challenge Tools Workshop 2022](https://github.com/iris-hep/analysis-grand-challenge/blob/ec5184fb65bdc96a3d8ff1ac00e7fc8a8f399213/analyses/cms-open-data-ttbar/coffea.ipynb)
+]
+
+---
 # Browser native ecosystem as of April 2022
 
 <iframe
