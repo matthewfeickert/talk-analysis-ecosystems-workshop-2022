@@ -77,6 +77,47 @@ Their growth is tightly coupled to the interoperable design [[image](https://ind
    height="500px"
 ></iframe>
 
+.center[[Pyodide](https://pyodide.org/en/stable/) CPython port to WebAssembly/Emscripten powering [JupyterLite](https://jupyterlite.readthedocs.io/) kernel]
+
+---
+# Bolstered by most of PyData/SciPy stack
+
+.kol-1-2.code-tiny[
+```python
+import pyhf
+import numpy as np
+import matplotlib.pyplot as plt
+from pyhf.contrib.viz import brazil
+
+pyhf.set_backend("numpy")
+model = pyhf.simplemodels.uncorrelated_background(
+    signal=[10.0], bkg=[50.0], bkg_uncertainty=[7.0]
+)
+data = [55.0] + model.config.auxdata
+
+poi_vals = np.linspace(0, 5, 41)
+results = [
+    pyhf.infer.hypotest(
+        test_poi, data, model, test_stat="qtilde", return_expected_set=True
+    )
+    for test_poi in poi_vals
+]
+
+fig, ax = plt.subplots()
+fig.set_size_inches(7, 5)
+brazil.plot_results(poi_vals, results, ax=ax);
+```
+<!--  -->
+.center.width-60[[![pyhf-brazil-band](figures/pyhf-brazil-band.svg)](https://pyhf.readthedocs.io/)]
+]
+.kol-1-2[
+<iframe
+   src="https://jupyterlite.github.io/demo/repl/index.html?kernel=python&toolbar=1&code=import%20piplite%0Aawait%20piplite.install%28%5B%22pyhf%3D%3D0.6.3%22%2C%20%22requests%22%5D%29%0A%25matplotlib%20inline%0Aimport%20pyhf"
+   width="100%"
+   height="500px"
+></iframe>
+]
+
 ---
 # Summary
 .kol-2-3[
