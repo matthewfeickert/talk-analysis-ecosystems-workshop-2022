@@ -34,6 +34,15 @@ In his [2022 PyHEP topical meeting update](https://indico.cern.ch/event/1140031/
 ]
 
 ---
+# Truly an .huge[ecosystem]
+
+.center[
+.width-90[[![pip-all-os-scikit-hep-log](figures/pip-all-os-scikit-hep-log.png)](https://indico.cern.ch/event/1140031/)]
+
+Their growth is tightly coupled to the interoperable design
+]
+
+---
 # Summary
 .kol-2-3[
 - .large[.bold[Summary point]]
