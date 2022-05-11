@@ -2,17 +2,18 @@ name: Deploy build
 
 on:
   push:
-    branches:
-    - main
-    tags:
-    - v*
+    # branches:
+    # - main
+    # tags:
+    # - v*
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout
+      uses: actions/checkout@v3
 
     - name: Setup build for deployment
       run: |
