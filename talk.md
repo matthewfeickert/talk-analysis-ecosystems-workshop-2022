@@ -44,6 +44,22 @@ In his [2022 PyHEP topical meeting update](https://indico.cern.ch/event/1140031/
 ]
 
 ---
+# PyHEP ecosystem (quick summary)
+
+.kol-1-2.huge[
+<ol reversed>
+  <li>HEP-specific UI applications or packaged algorithms</li>
+  <li>HEP-specific for common problems</li>
+  <li>HEP-specific, foundational</li>
+  <li>needed to create, but not really HEP-specific</li>
+  <li>non-HEP software we depend on</li>
+</ol>
+]
+.kol-1-2[
+.center.width-110[[![pyhep-ecosystem](figures/pyhep-ecosystem.svg)](https://indico.cern.ch/event/1140031/)]
+]
+
+---
 # Truly an .huge[ecosystem]
 
 .center[
