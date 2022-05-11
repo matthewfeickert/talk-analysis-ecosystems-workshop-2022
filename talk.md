@@ -15,6 +15,15 @@ count: false
 
 May 23rd, 2022
 
+---
+# Ecosystems
+
+.center[
+.width-60[[![pydata-ecosystem-pycon-2017](figures/pydata-ecosystem-pycon-2017.png)](https://coiled.io/blog/pydata-dask/)]
+
+In his [PyCon 2017 keynote](https://youtu.be/ZyjCqQEUa8o), Jake VanderPlas gave us the iconic "PyData ecosystem" image
+]
+
 
 ---
 # Summary
