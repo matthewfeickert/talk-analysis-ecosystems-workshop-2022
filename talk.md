@@ -39,7 +39,7 @@ In his [2022 PyHEP topical meeting update](https://indico.cern.ch/event/1140031/
 .center[
 .width-90[[![pip-all-os-scikit-hep-log](figures/pip-all-os-scikit-hep-log.png)](https://indico.cern.ch/event/1140031/)]
 
-Their growth is tightly coupled to the interoperable design
+Their growth is tightly coupled to the interoperable design [[image](https://indico.cern.ch/event/1140031/): Jim Pivarki]
 ]
 
 ---
