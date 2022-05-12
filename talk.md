@@ -60,23 +60,16 @@ In his [2022 PyHEP topical meeting update](https://indico.cern.ch/event/1140031/
 ]
 
 ---
-# Truly an .huge[ecosystem]
-
-.center[
-.width-90[[![pip-all-os-scikit-hep-log](figures/pip-all-os-scikit-hep-log.png)](https://indico.cern.ch/event/1140031/)]
-
-Their growth is tightly coupled to the interoperable design [[image](https://indico.cern.ch/event/1140031/): Jim Pivarki]
-]
-
----
-# Truly an .huge[ecosystem]
+# Community adoption ...
 
 .center.width-100[[![download-rates](figures/download-rates.svg)](https://github.com/matthewfeickert/talk-analysis-ecosystems-workshop-2022/issues/1)]
 
 ---
-# Truly an .huge[ecosystem]
+# Community adoption with ecosystem growth
 
 .center.width-100[[![download-rates-all](figures/download-rates-all.svg)](https://github.com/matthewfeickert/talk-analysis-ecosystems-workshop-2022/issues/1)]
+<!--  -->
+.center[Aided by interoperable design]
 
 ---
 # Interoperability allows for analysis pipelines
