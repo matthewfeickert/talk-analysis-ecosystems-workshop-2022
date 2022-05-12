@@ -69,6 +69,16 @@ Their growth is tightly coupled to the interoperable design [[image](https://ind
 ]
 
 ---
+# Truly an .huge[ecosystem]
+
+.center.width-100[[![download-rates](figures/download-rates.svg)](https://github.com/matthewfeickert/talk-analysis-ecosystems-workshop-2022/issues/1)]
+
+---
+# Truly an .huge[ecosystem]
+
+.center.width-100[[![download-rates-all](figures/download-rates-all.svg)](https://github.com/matthewfeickert/talk-analysis-ecosystems-workshop-2022/issues/1)]
+
+---
 # Interoperability allows for analysis pipelines
 
 .center[
