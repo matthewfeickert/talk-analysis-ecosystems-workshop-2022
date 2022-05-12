@@ -1,4 +1,4 @@
-# [HEP Python Ecosystem for Analysis][talk-indico-contribution]
+# [Analysis user experience with the Python HEP ecosystem][talk-indico-contribution]
 
 Talk given at the [2022 Analysis Ecosystems Workshop][workshop-indico].
 

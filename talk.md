@@ -1,7 +1,8 @@
 class: middle, center, title-slide
 count: false
 
-# HEP Python Ecosystem for Analysis
+# Analysis user experience with<br>
+# the Python HEP ecosystem
 
 <br>
 
