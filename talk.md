@@ -91,7 +91,7 @@ See end-to-end analysis demo by Alex Held at [Analysis Grand Challenge Tools Wor
 # Browser native ecosystem as of April 2022
 
 <iframe
-   src="https://jupyterlite.github.io/demo/repl/index.html?kernel=python&toolbar=1&code=import%20micropip%0Aawait%20micropip.install%28%5B%22pyhf%3D%3D0.6.3%22%2C%20%22requests%22%5D%29%0Aimport%20pyhf"
+   src="https://jupyterlite.github.io/demo/repl/index.html?kernel=python&toolbar=1&code=import%20micropip%0Aawait%20micropip.install%28%5B%22hist%22%2C%20%22vector%22%2C%20%22mplhep%22%2C%20%22pyhf%22%5D%29%0A%25matplotlib%20inline%0Aimport%20boost_histogram%0Aimport%20hist%0Aimport%20vector%0Aimport%20mplhep%0Aimport%20pyhf"
    width="100%"
    height="500px"
 ></iframe>
